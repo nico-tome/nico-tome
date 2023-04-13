@@ -9,13 +9,13 @@
 ### Moi 👤
 
   #### Rapide Présentation 👋🏼
-  Je suis un étudiant de seconde passioné par le code, les jeux vidéos et les IA. J'ai débuté à m'intéresser au code il y a 3 ans lors du premier confiement avec le site [scratch](https://scratch.mit.edu/) et depuis je n'ai jamais arréter.
+  Je suis un étudiant de seconde passioné par le code, les jeux vidéos et les IA. J'ai débuté à m'intéresser au code il y a 3 ans lors du premier confiement avec le site [scratch](https://scratch.mit.edu/) et depuis je n'ai jamais stoper.
 
   #### A propos 📜
 
   - 📌 J'habite à Grenoble.
   - 🤺 Je suis un escrimeur de haut niveau.
-  - 💻 Je devellope de manière indépendante des petits jeux et des applications afins de me rendre la vie plus facile.
+  - 💻 Je develope de manière indépendante des petits jeux et des applications afins de me rendre la vie plus facile.
   
  ---
   
