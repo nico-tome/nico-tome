@@ -135,3 +135,12 @@
       <img alt="scratch" src="https://img.shields.io/badge/Scratch-FFA500?style=for-the-badge&logo=Scratch&logoColor=white">
     </a>
 </p>
+
+---
+
+### Mes projets 📜
+
+#### Jeux 🕹️
+
+* <a target="_blank" href="https://tomyo.itch.io/blue-red-square">**Blue Red Square**</a> - Mon premier jeu, je l'ai fait avec Scratch puis l'ai exporter via <a target="_blank" href="https://github.com/TurboWarp">TurboWarp</a> sur <a target="_blank" href="https://tomyo.itch.io/blue-red-square">Itch.io</a>.
+* <a target="_blank" href="https://tomyo.itch.io/fisc-adventure">**Fisc Adventure**</a> - Mon deuxième jeu et le premier en 3D. C'est un jeu satyrique utilisant la technique du raycasting et coder sur <a target="_blank" href="https://github.com/TurboWarp">TurboWarp</a>.
