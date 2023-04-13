@@ -1,11 +1,5 @@
 <h1 align="center"> Nicolas Tomé </h1>
 
-<p align="center">
-    <a target="_blank" href="mailto:nicolas.tome.38@gmail.com">
-        <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-</p>
-
 ### Moi 👤
 
   #### Rapide Présentation 👋🏼
@@ -111,3 +105,17 @@
     <img alt="blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
     <img alt="premier pro" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"/>
   </p>
+
+---
+
+<p align="center">
+    <a target="_blank" href="mailto:nicolas.tome.38@gmail.com">
+        <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a target="_blank" href="https://www.instagram.com/nico__tome/">
+        <img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+    <a target="_blank" href="https://www.youtube.com/channel/UCdCudHce2Enb42QlhJ0Q7aQ">
+        <img alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+    </a>
+</p>
