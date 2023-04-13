@@ -122,6 +122,6 @@
       <img alt="itch" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white">
     </a>
     <a target="_blank" href="https://scratch.mit.edu/users/Tomyo_/">
-      <img alt="scratch" href="https://img.shields.io/badge/Scratch-FFA500?style=for-the-badge&logo=Scratch&logoColor=white">
+      <img alt="scratch" src="https://img.shields.io/badge/Scratch-FFA500?style=for-the-badge&logo=Scratch&logoColor=white">
     </a>
 </p>
