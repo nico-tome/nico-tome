@@ -23,7 +23,7 @@
   <img alt=c++ src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img alt="python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
   <img alt"un peu de javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img alt="scratch" src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white"/>
+  <img alt="scratch" src="https://img.shields.io/badge/Scratch-FFA500?style=for-the-badge&logo=Scratch&logoColor=white"/>
   </p>
   
   #### Librairies 📚
@@ -37,7 +37,7 @@
   #### Environnement ⌨️
   <p>
   <img alt="vscode" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-  <img alt="scratch" src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white"/>
+  <img alt="scratch" src="https://img.shields.io/badge/Scratch-FFA500?style=for-the-badge&logo=Scratch&logoColor=white"/>
   <img alt="spyder" src="https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white"/>
   <img alt="pycharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
   <img alt="arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
@@ -122,6 +122,6 @@
       <img alt="itch" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white">
     </a>
     <a target="_blank" href="https://scratch.mit.edu/users/Tomyo_/">
-      <img alt="scratch" href="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white">
+      <img alt="scratch" href="https://img.shields.io/badge/Scratch-FFA500?style=for-the-badge&logo=Scratch&logoColor=white">
     </a>
 </p>
