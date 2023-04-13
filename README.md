@@ -75,6 +75,10 @@
     <img alt="windows 11" src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white"/>
   </p>
   
+  #### Autre 🧠
+  <p>
+  - Je parle anglais et espagnole.
+  
  ---
  
 ### J'étudie 🎓
@@ -105,6 +109,12 @@
     <img alt="blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
     <img alt="premier pro" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"/>
   </p>
+  
+  ### Autre 🎓
+  
+  - Je consolide ma maitrise des langues anglaise et espagnole.
+  - J'apprend le chinois.
+  - J'étudie la géo-politique et l'économie.
 
 ---
 
