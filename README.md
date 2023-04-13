@@ -118,4 +118,10 @@
     <a target="_blank" href="https://www.youtube.com/channel/UCdCudHce2Enb42QlhJ0Q7aQ">
         <img alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
     </a>
+    <a target="_blank" href="https://tomyo.itch.io/">
+      <img alt="itch" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white">
+    </a>
+    <a target="_blank" href="https://scratch.mit.edu/users/Tomyo_/">
+      <img alt="scratch" href="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white">
+    </a>
 </p>
