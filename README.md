@@ -113,7 +113,7 @@
   ### Autre 🎓
   
   - Je consolide ma maitrise des langues anglaise et espagnole.
-  - J'apprend le chinois.
+  - J'apprend le russe.
   - J'étudie la géo-politique et l'économie.
 
 ---
