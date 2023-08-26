@@ -33,6 +33,7 @@
   <img alt="numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img alt="plotlib" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white"/>
   <img alt="pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img alt="tkinter" src="https://img.shields.io/badge/Tkinter-2C2D72?style=for-the-badge&logo=tkinter&logoColor=white" />
   </p>
   
   #### Environnement ⌨️
