@@ -9,7 +9,7 @@
 
   - 📌 J'habite à Grenoble.
   - 🤺 Je suis un escrimeur de haut niveau. *(j'ai également fait du rugby et du golf)*
-  - 💻 Je develope de façon indépendante et solitaire des petits jeux et des applications afin d'acquérir de l'expérience.
+  - 💻 Je développe de façon indépendante et solitaire des petits jeux et des applications afin d'acquérir de l'expérience.
   
  ---
   
