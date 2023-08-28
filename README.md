@@ -3,7 +3,7 @@
 ### Moi 👤
 
   #### Rapide Présentation 👋🏼
-  Je suis un étudiant de seconde passioné par le code, les jeux vidéos et les IA. J'ai débuté à m'intéresser au code il y a 3 ans lors du premier confinement avec le site [scratch](https://scratch.mit.edu/) et depuis je n'ai jamais arrêté.
+  Je suis un étudiant de première passioné par le code, les jeux vidéos et les IA. J'ai débuté à m'intéresser au code il y a 3 ans lors du premier confinement avec le site [scratch](https://scratch.mit.edu/) et depuis je n'ai jamais arrêté.
 
   #### A propos 📜
 
@@ -120,7 +120,7 @@
   ### Autre 🎓
   
   - Je consolide ma maitrise des langues anglaise et espagnole.
-  - J'apprend le russe.
+  - J'apprend le l'ukrainien.
   - J'étudie la géo-politique et l'économie.
 
 ---
