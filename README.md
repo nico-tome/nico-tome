@@ -120,7 +120,6 @@
   ### Autre 🎓
   
   - Je consolide ma maitrise des langues anglaise et espagnole.
-  - J'apprend le l'ukrainien.
   - J'étudie la géo-politique et l'économie.
 
 ---
