@@ -84,7 +84,7 @@
   
   #### Autre 🧠
   <p>
-  - Je parle anglais et espagnole.
+  - Je parle anglais et espagnol.
   
  ---
  
@@ -119,7 +119,7 @@
   
   ### Autre 🎓
   
-  - Je consolide ma maitrise des langues anglaise et espagnole.
+  - Je consolide ma maitrise des langues anglaise et espagnol.
   - J'étudie la géo-politique et l'économie.
 
 ---
