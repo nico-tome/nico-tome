@@ -2,7 +2,7 @@
 
 ### Moi 👤
 
-  #### Rapide Présentation 👋🏼
+  #### Présentation Rapide 👋🏼
   Je suis un étudiant passioné par le code, les jeux vidéos et les IA. J'ai commencé à m'intéresser au code lors du premier confinement avec le site [scratch](https://scratch.mit.edu/) et depuis je n'ai jamais arrêté.
 
   #### A propos 📜
