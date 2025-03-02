@@ -3,19 +3,21 @@
 ### Moi 👤
 
   #### Rapide Présentation 👋🏼
-  Je suis un étudiant passioné par le code, les jeux vidéos et les IA. J'ai débuté à m'intéresser au code lors du premier confinement avec le site [scratch](https://scratch.mit.edu/) et depuis je n'ai jamais arrêté.
+  Je suis un étudiant passioné par le code, les jeux vidéos et les IA. J'ai commencé à m'intéresser au code lors du premier confinement avec le site [scratch](https://scratch.mit.edu/) et depuis je n'ai jamais arrêté.
 
   #### A propos 📜
 
   - 📌 J'habite à Orléans.
   - 🤺 Je suis un escrimeur de haut niveau. *(j'ai également fait du rugby et du golf)*
-  - 💻 Je développe par moi même des petits jeux et des applications afin d'acquérir de l'expérience.
+  - 💻 Je développe par moi-même des petits jeux et des applications afin d'acquérir de l'expérience.
   
+<a href="https://github.com/nico-tome/portfolio"><img alt="portfolio" src="https://img.shields.io/badge/Portfolio-7D7C84?style=for-the-badge&logo=gdscript&logoColor=white"/></a>
+ 
  ---
   
 ### Mes compétences 🔧
 
-  #### Languages de programations 🤖
+  #### Langages de programations 🤖
   <p>
   <img alt"html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt"css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
