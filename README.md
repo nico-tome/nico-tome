@@ -17,7 +17,7 @@
   
 ### Mes compétences 🔧
 
-  #### Langages de programations 🤖
+  #### Langages de programmations 🤖
   <p>
   <img alt"html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt"css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -46,7 +46,7 @@
   <img alt="arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
   </p>
   
-  #### Terminale 📟
+  #### Terminal 📟
   <p>
    <img alt="powershell" src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
    <img alt="windows terminale" src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white"/>
@@ -59,7 +59,7 @@
   
 ---
 
-### Autre 🛠️
+### Autres 🛠️
 
   ##### Logiciels ⚙️
   <p>
@@ -71,7 +71,7 @@
     <img alt="godot" src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white"/>
   </p>
               
-  ##### Site 🌐
+  ##### Sites 🌐
   <p>
     <img alt="MDN" src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white"/>
     <img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
@@ -90,9 +90,9 @@
   
  ---
  
-### J'étudie 🎓
+### J'étudies 🎓
 
-  #### Languages de programations 🤖
+  #### Languages de programmations 🤖
   <p>
   <img alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -121,8 +121,8 @@
   
   ### Autre 🎓
   
-  - Je consolide ma maitrise des langues anglaise et espagnol.
-  - J'étudie la géo-politique et l'économie.
+  - Je consolide ma maitrise des langues anglaise et espagnole.
+  - J'étudie la géo-politique.
 
 ---
 
