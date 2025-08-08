@@ -7,7 +7,7 @@
 
   #### A propos 📜
 
-  - 📌 J'habite à Orléans.
+  - 📌 J'habite à Bordeaux.
   - 🤺 Je suis un escrimeur de haut niveau. *(j'ai également fait du rugby et du golf)*
   - 💻 Je développe par moi-même des petits jeux et des applications afin d'acquérir de l'expérience.
   
