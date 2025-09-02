@@ -18,14 +18,10 @@
 ### Mes compétences 🔧
 
   #### Langages de programmations 🤖
-  <p>
-  <img alt"html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt"css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img alt=c++ src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img alt="python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-  <img alt"un peu de javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img alt="gdscript" src="https://img.shields.io/badge/GDscript-478CBF?style=for-the-badge&logo=gdscript&logoColor=white"/>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=c, cpp, html, css, javascript, py, godot, md&perline=9" alt="Language"/>
+    </a>
   </p>
   
   #### Librairies 📚
@@ -39,18 +35,18 @@
   </p>
   
   #### Environnement ⌨️
-  <p>
-  <img alt="vscode" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-  <img alt="spyder" src="https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white"/>
-  <img alt="pycharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
-  <img alt="arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=vscode, vim, arduino, emacs, neovim, visualstudio&perline=9" alt="IDE"/>
+    </a>
   </p>
   
   #### Terminal 📟
-  <p>
-   <img alt="powershell" src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
-   <img alt="windows terminale" src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white"/>
-  </p>
+   <p align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git, powershell, &perline=9" alt="Terminals"/>
+      </a>
+    </p>
 
   #### Outils 🪛
   <p>
