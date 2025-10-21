@@ -112,7 +112,6 @@
   ### Autre 🎓
   
   - Je consolide ma maitrise des langues anglaise et espagnole.
-  - J'étudie la géo-politique.
 
 ---
 
