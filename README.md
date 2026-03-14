@@ -3,7 +3,7 @@
 ## About me
 
 - 🇫🇷 French and 🇪🇸 Spanish
-- 🤺 Hight level fencing at French pole in Bordeaux
+- 🤺 Hight level fencing at French pole at Bordeaux
 - 🎓 42 student at [42 Angouleme](https://42angouleme.fr/)
 - 🗣️ Fluent in: 🇫🇷 🇬🇧 🇪🇸
 
