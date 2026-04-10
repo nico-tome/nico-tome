@@ -40,14 +40,14 @@
 <p align="center">
 	<a href="nicolas.tome.38@gmail.com">
 		<img align="center" alt="mail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/>
-	</a>
+	</a> 
 	<a href="https://www.instagram.com/nico__tome/">
 		<img align="center" alt="insta" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
-	</a>
+	</a> 
 	<a href="https://tomyo.itch.io/">
 		<img align="center" alt="insta" src="https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white"/>
-	</a>
-	<a href="https://github.com/nico-tome/portfolio">
+	</a> 
+	<a href="https://nico-tome.github.io/">
 		<img align="center" alt="portfolio" src="https://img.shields.io/badge/Portfolio-%23121011.svg?logo=github&logoColor=white"/>
 	</a>
 </p>
